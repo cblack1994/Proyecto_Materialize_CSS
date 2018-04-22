@@ -1,6 +1,6 @@
 body {
 
-  background-image: url("../img/fondo4.jpg");
+  background-image: url("../img/fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -21,6 +21,13 @@ body {
 .contenedor-botones {
 
   margin-top: 30px;
+
+
+}
+
+.icono {
+
+  padding-top: 10px;
 
 
 }
