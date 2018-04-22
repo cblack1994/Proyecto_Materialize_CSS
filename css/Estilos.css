@@ -1,6 +1,6 @@
 body {
 
-  background-image: url("../img/fondo.jpg");
+  background-image: url("../img/fondo4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -25,6 +25,28 @@ body {
 
 }
 
-@media query (min-width: 320px) {
+@media (max-width:420px) {
+
+  .logo {
+
+    width: 125px;
+    height: 90px;
+    float: left;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 39px;
+
+  }
+
+  .boton-tamaño {
+
+    margin-right: 10px;
+    margin-top: 10px;
+    float: right;
+
+
+}
+
+
 
 }
