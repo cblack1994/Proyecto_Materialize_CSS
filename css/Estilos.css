@@ -32,6 +32,13 @@ body {
 
 }
 
+#publicacion {
+
+  width: 423px;
+
+
+}
+
 @media (max-width:420px) {
 
   .logo {
