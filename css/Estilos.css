@@ -48,6 +48,12 @@ body {
 
 }
 
+.tamaño-autor {
+
+  width: 50%;
+
+}
+
 
 
 @media (max-width:420px) {
