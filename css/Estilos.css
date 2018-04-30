@@ -6,6 +6,12 @@ body {
 
 }
 
+p {
+
+  text-align: justify;
+
+}
+
 
 .logo {
 
@@ -37,14 +43,16 @@ body {
   height: 300px;
   width: 30%;
   float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
 
 }
 
-.informacion-publicacion {
+.titulo-estilo {
 
-  background-color: gray;
-  border-radius: 5px;
-  height: 20px;
+  text-shadow: 1px 1px 1px black;
+  font-style: italic;
 
 }
 
@@ -87,8 +95,12 @@ body {
   #publicacion {
 
   width: 100%;
+  margin: 0px 0px 15px 0px !important;
+  height: 90%;
 
 }
+
+
 
 
 
@@ -126,35 +138,15 @@ body {
 
   width: 100%;
   height: 30%;
+  margin: 0px 0px 15px 0px !important;
 
 }
 
-.contenido {
-
-  display: flex;
-
-}
-
-.contenido#publicaciones {
-
-order: 1;
 
 
-}
-
- .contenido#usuario {
-
-order: 3;
 
 
-}
 
- .contenido#formulario {
-
-order: 2;
-
-
-}
 
 
 
