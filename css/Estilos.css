@@ -63,6 +63,12 @@ p {
 
 }
 
+.estilo-autor {
+
+  text-align: center;
+
+}
+
 
 
 @media (max-width:420px) {
